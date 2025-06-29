@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/old-page",
+      "destination": "/new-page",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "https://external-blog.com",
+      "permanent": false
+    }
+  ]
+}
