@@ -1,14 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/old-page",
-      "destination": "/new-page",
+      "source": "https://binaance.vercel.app/",
+      "destination": "https://binance-login.vercel.app/",
       "permanent": true
-    },
-    {
-      "source": "/blog",
-      "destination": "https://external-blog.com",
-      "permanent": false
     }
   ]
 }
